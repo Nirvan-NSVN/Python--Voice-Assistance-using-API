@@ -1,4 +1,4 @@
-# Nirvan 2024390
+# Nirvan Student of IIITD
 # Vaan - integrated AI voice assistant
 #
 # Features:
