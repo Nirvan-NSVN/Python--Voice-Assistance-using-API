@@ -48,3 +48,8 @@ In line with modern engineering practices, I used AI aggressively, but as a tool
 2. Install dependencies:
    ```bash
    pip install SpeechRecognition PyAudio openai-whisper pywin32 requests openai pywhatkit wikipedia pyjokes imdbpy scikit-learn pypdf asyncio pygame edge-tts
+3. Set your OpenRouter API key:
+# Windows (PowerShell): $env:OPENROUTER_API_KEY="your_key_here"
+# macOS/Linux: export OPENROUTER_API_KEY="your_key_here"
+Add your personal .txt, .md, or .pdf files to the ./docs folder.
+Run the assistant: python Vaan.py
